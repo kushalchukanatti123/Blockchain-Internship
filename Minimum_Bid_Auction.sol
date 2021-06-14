@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.4;
 
-contract Auction {
+contract AuctionMinimum {
     address internal auction_owner;
     uint256 public auction_start; 
     uint256 public auction_end; 
